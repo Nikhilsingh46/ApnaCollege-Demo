@@ -1,1 +1,11 @@
 # ApnaCollege-Demo
+
+Learn from Apna College
+Basics of Version Control
+
+Today I learned what Git and GitHub are.
+
+Git is a Version Control System (VCS).
+A Version Control System is a tool that helps track changes in code.
+
+It is mainly used to track the history of code and collaborate with other developers.
